@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 1,
+        "name": "Guztavin Inevitavel",
+        "vocation": "Mago",
+        "level": 662,
+        "experience": 10916001280,
+        "server": "Onix"
+    },
+    {
+        "id": 2,
+        "name": "Mestre Miyagi",
+        "vocation": "Mago",
+        "level": 636,
+        "experience": 8485395505,
+        "server": "Onix"
+    },
+    {
+        "id": 3,
+        "name": "Nami Swann",
+        "vocation": "Mago",
+        "level": 607,
+        "experience": 5976424576,
+        "server": "Onix"
+    },
+    {
+        "id": 4,
+        "name": "Joyboy Stark",
+        "vocation": "Mago",
+        "level": 531,
+        "experience": 3716388653,
+        "server": "Onix"
+    },
+    {
+        "id": 5,
+        "name": "Shakaosz",
+        "vocation": "Mago",
+        "level": 497,
+        "experience": 3051605461,
+        "server": "Onix"
+    },
+    {
+        "id": 6,
+        "name": "Rivotrixx",
+        "vocation": "Mago",
+        "level": 470,
+        "experience": 2574813251,
+        "server": "Onix"
+    },
+    {
+        "id": 7,
+        "name": "Mheex",
+        "vocation": "Mago",
+        "level": 389,
+        "experience": 1457175003,
+        "server": "Onix"
+    },
+    {
+        "id": 8,
+        "name": "Vulcano",
+        "vocation": "Mago",
+        "level": 357,
+        "experience": 1131171064,
+        "server": "Onix"
+    },
+    {
+        "id": 9,
+        "name": "Diojoestar",
+        "vocation": "Mago",
+        "level": 332,
+        "experience": 908559005,
+        "server": "Onix"
+    },
+    {
+        "id": 10,
+        "name": "Rivotriixx",
+        "vocation": "Mago",
+        "level": 327,
+        "experience": 869206208,
+        "server": "Onix"
+    },
+    {
+        "id": 11,
+        "name": "Relikia Das Relikias",
+        "vocation": "Mago",
+        "level": 323,
+        "experience": 832808534,
+        "server": "Onix"
+    },
+    {
+        "id": 12,
+        "name": "Gauthers",
+        "vocation": "Mago",
+        "level": 321,
+        "experience": 823334543,
+        "server": "Onix"
+    },
+    {
+        "id": 13,
+        "name": "Tavinhobn",
+        "vocation": "Mago",
+        "level": 317,
+        "experience": 793272216,
+        "server": "Onix"
+    },
+    {
+        "id": 14,
+        "name": "Dmorgan",
+        "vocation": "Mago",
+        "level": 316,
+        "experience": 779788137,
+        "server": "Onix"
+    },
+    {
+        "id": 15,
+        "name": "Tik",
+        "vocation": "Mago",
+        "level": 311,
+        "experience": 744117543,
+        "server": "Onix"
+    },
+    {
+        "id": 16,
+        "name": "Shakaos",
+        "vocation": "Mago",
+        "level": 310,
+        "experience": 735265417,
+        "server": "Onix"
+    },
+    {
+        "id": 17,
+        "name": "Suzaku",
+        "vocation": "Mago",
+        "level": 297,
+        "experience": 648569567,
+        "server": "Onix"
+    },
+    {
+        "id": 18,
+        "name": "Isqueirinho",
+        "vocation": "Mago",
+        "level": 296,
+        "experience": 642488874,
+        "server": "Onix"
+    },
+    {
+        "id": 19,
+        "name": "Wannabovol",
+        "vocation": "Mago",
+        "level": 277,
+        "experience": 525868692,
+        "server": "Onix"
+    },
+    {
+        "id": 20,
+        "name": "Kaelsunstrider",
+        "vocation": "Mago",
+        "level": 262,
+        "experience": 443043921,
+        "server": "Onix"
+    },
+    {
+        "id": 21,
+        "name": "Apokalypse",
+        "vocation": "Mago",
+        "level": 261,
+        "experience": 440737672,
+        "server": "Onix"
+    },
+    {
+        "id": 22,
+        "name": "Indecenty",
+        "vocation": "Mago",
+        "level": 255,
+        "experience": 410908569,
+        "server": "Onix"
+    },
+    {
+        "id": 23,
+        "name": "Xurubiriskzwa",
+        "vocation": "Mago",
+        "level": 253,
+        "experience": 402059493,
+        "server": "Onix"
+    },
+    {
+        "id": 24,
+        "name": "Skaarius",
+        "vocation": "Mago",
+        "level": 237,
+        "experience": 328194387,
+        "server": "Onix"
+    },
+    {
+        "id": 25,
+        "name": "Gargazu",
+        "vocation": "Mago",
+        "level": 222,
+        "experience": 271938875,
+        "server": "Onix"
+    },
+    {
+        "id": 26,
+        "name": "Sputnick",
+        "vocation": "Mago",
+        "level": 222,
+        "experience": 271870659,
+        "server": "Onix"
+    },
+    {
+        "id": 27,
+        "name": "Lidorizzi",
+        "vocation": "Mago",
+        "level": 216,
+        "experience": 247969330,
+        "server": "Onix"
+    },
+    {
+        "id": 28,
+        "name": "Rei Jamaica",
+        "vocation": "Mago",
+        "level": 214,
+        "experience": 243416426,
+        "server": "Onix"
+    },
+    {
+        "id": 29,
+        "name": "Shiragami",
+        "vocation": "Mago",
+        "level": 213,
+        "experience": 237109169,
+        "server": "Onix"
+    },
+    {
+        "id": 30,
+        "name": "Renata",
+        "vocation": "Mago",
+        "level": 212,
+        "experience": 234114559,
+        "server": "Onix"
+    },
+    {
+        "id": 31,
+        "name": "Twitxi Gringovsk",
+        "vocation": "Mago",
+        "level": 205,
+        "experience": 213473573,
+        "server": "Onix"
+    },
+    {
+        "id": 32,
+        "name": "Ravennaah",
+        "vocation": "Mago",
+        "level": 205,
+        "experience": 212622773,
+        "server": "Onix"
+    },
+    {
+        "id": 33,
+        "name": "Kaleese",
+        "vocation": "Mago",
+        "level": 195,
+        "experience": 183012885,
+        "server": "Onix"
+    },
+    {
+        "id": 34,
+        "name": "Drunken Lightning",
+        "vocation": "Mago",
+        "level": 195,
+        "experience": 182236024,
+        "server": "Onix"
+    },
+    {
+        "id": 35,
+        "name": "Susana Raio Laser",
+        "vocation": "Mago",
+        "level": 193,
+        "experience": 177744414,
+        "server": "Onix"
+    },
+    {
+        "id": 36,
+        "name": "Rasengan",
+        "vocation": "Mago",
+        "level": 186,
+        "experience": 157617493,
+        "server": "Onix"
+    },
+    {
+        "id": 37,
+        "name": "Nostradamus",
+        "vocation": "Mago",
+        "level": 180,
+        "experience": 142987441,
+        "server": "Onix"
+    },
+    {
+        "id": 38,
+        "name": "Cads",
+        "vocation": "Mago",
+        "level": 177,
+        "experience": 136311289,
+        "server": "Onix"
+    },
+    {
+        "id": 39,
+        "name": "Maguin Dum Sertao",
+        "vocation": "Mago",
+        "level": 173,
+        "experience": 128286292,
+        "server": "Onix"
+    },
+    {
+        "id": 40,
+        "name": "Myrian",
+        "vocation": "Mago",
+        "level": 172,
+        "experience": 126234773,
+        "server": "Onix"
+    },
+    {
+        "id": 41,
+        "name": "Insane Ira",
+        "vocation": "Mago",
+        "level": 168,
+        "experience": 117241797,
+        "server": "Onix"
+    },
+    {
+        "id": 42,
+        "name": "Freyrumbras",
+        "vocation": "Mago",
+        "level": 168,
+        "experience": 115873282,
+        "server": "Onix"
+    },
+    {
+        "id": 43,
+        "name": "Catelya",
+        "vocation": "Mago",
+        "level": 167,
+        "experience": 114728749,
+        "server": "Onix"
+    },
+    {
+        "id": 44,
+        "name": "Moselanious",
+        "vocation": "Mago",
+        "level": 159,
+        "experience": 99784884,
+        "server": "Onix"
+    },
+    {
+        "id": 45,
+        "name": "Brunoaf",
+        "vocation": "Mago",
+        "level": 159,
+        "experience": 99255347,
+        "server": "Onix"
+    },
+    {
+        "id": 46,
+        "name": "Celina",
+        "vocation": "Mago",
+        "level": 157,
+        "experience": 95262680,
+        "server": "Onix"
+    },
+    {
+        "id": 47,
+        "name": "Amoranguinho",
+        "vocation": "Mago",
+        "level": 157,
+        "experience": 94379769,
+        "server": "Onix"
+    },
+    {
+        "id": 48,
+        "name": "Mage Black",
+        "vocation": "Mago",
+        "level": 156,
+        "experience": 94094982,
+        "server": "Onix"
+    },
+    {
+        "id": 49,
+        "name": "Matosa",
+        "vocation": "Mago",
+        "level": 156,
+        "experience": 93624575,
+        "server": "Onix"
+    },
+    {
+        "id": 50,
+        "name": "Tretta",
+        "vocation": "Mago",
+        "level": 150,
+        "experience": 83090331,
+        "server": "Onix"
+    },
+    {
+        "id": 51,
+        "name": "Greavous",
+        "vocation": "Mago",
+        "level": 147,
+        "experience": 77342606,
+        "server": "Onix"
+    },
+    {
+        "id": 52,
+        "name": "Stonks The Bravo",
+        "vocation": "Mago",
+        "level": 143,
+        "experience": 72088579,
+        "server": "Onix"
+    },
+    {
+        "id": 53,
+        "name": "Maguinhoo",
+        "vocation": "Mago",
+        "level": 142,
+        "experience": 70254511,
+        "server": "Onix"
+    },
+    {
+        "id": 54,
+        "name": "Dallheim",
+        "vocation": "Mago",
+        "level": 139,
+        "experience": 66293205,
+        "server": "Onix"
+    },
+    {
+        "id": 55,
+        "name": "Zeny",
+        "vocation": "Mago",
+        "level": 138,
+        "experience": 63979409,
+        "server": "Onix"
+    },
+    {
+        "id": 56,
+        "name": "Bilabe",
+        "vocation": "Mago",
+        "level": 137,
+        "experience": 62971396,
+        "server": "Onix"
+    },
+    {
+        "id": 57,
+        "name": "Lothemar",
+        "vocation": "Mago",
+        "level": 137,
+        "experience": 62961328,
+        "server": "Onix"
+    },
+    {
+        "id": 58,
+        "name": "Mighty Oberon",
+        "vocation": "Mago",
+        "level": 137,
+        "experience": 62915380,
+        "server": "Onix"
+    },
+    {
+        "id": 59,
+        "name": "Times Money",
+        "vocation": "Mago",
+        "level": 136,
+        "experience": 61673966,
+        "server": "Onix"
+    },
+    {
+        "id": 60,
+        "name": "Love Quinn",
+        "vocation": "Mago",
+        "level": 135,
+        "experience": 60002042,
+        "server": "Onix"
+    },
+    {
+        "id": 61,
+        "name": "Mago Prior",
+        "vocation": "Mago",
+        "level": 131,
+        "experience": 55418065,
+        "server": "Onix"
+    },
+    {
+        "id": 62,
+        "name": "Valkrys",
+        "vocation": "Mago",
+        "level": 131,
+        "experience": 54593224,
+        "server": "Onix"
+    },
+    {
+        "id": 63,
+        "name": "Chrowlley",
+        "vocation": "Mago",
+        "level": 130,
+        "experience": 53973078,
+        "server": "Onix"
+    },
+    {
+        "id": 64,
+        "name": "Mage Bolado",
+        "vocation": "Mago",
+        "level": 130,
+        "experience": 53815935,
+        "server": "Onix"
+    },
+    {
+        "id": 65,
+        "name": "Crasy Valkyrinha",
+        "vocation": "Mago",
+        "level": 129,
+        "experience": 52295525,
+        "server": "Onix"
+    },
+    {
+        "id": 66,
+        "name": "Shadmaster",
+        "vocation": "Mago",
+        "level": 129,
+        "experience": 52143235,
+        "server": "Onix"
+    },
+    {
+        "id": 67,
+        "name": "Guitox",
+        "vocation": "Mago",
+        "level": 128,
+        "experience": 51792170,
+        "server": "Onix"
+    },
+    {
+        "id": 68,
+        "name": "Nuvem",
+        "vocation": "Mago",
+        "level": 127,
+        "experience": 49875853,
+        "server": "Onix"
+    },
+    {
+        "id": 69,
+        "name": "Felipex",
+        "vocation": "Mago",
+        "level": 126,
+        "experience": 49100851,
+        "server": "Onix"
+    },
+    {
+        "id": 70,
+        "name": "Kaels",
+        "vocation": "Mago",
+        "level": 125,
+        "experience": 48405094,
+        "server": "Onix"
+    },
+    {
+        "id": 71,
+        "name": "Bruxa Baratuxa",
+        "vocation": "Mago",
+        "level": 124,
+        "experience": 47048178,
+        "server": "Onix"
+    },
+    {
+        "id": 72,
+        "name": "Dark Nightmare",
+        "vocation": "Mago",
+        "level": 123,
+        "experience": 45872782,
+        "server": "Onix"
+    },
+    {
+        "id": 73,
+        "name": "Mestrinho",
+        "vocation": "Mago",
+        "level": 123,
+        "experience": 45868532,
+        "server": "Onix"
+    },
+    {
+        "id": 74,
+        "name": "Quetshup",
+        "vocation": "Mago",
+        "level": 122,
+        "experience": 44588107,
+        "server": "Onix"
+    },
+    {
+        "id": 75,
+        "name": "Gauther",
+        "vocation": "Mago",
+        "level": 122,
+        "experience": 44258147,
+        "server": "Onix"
+    },
+    {
+        "id": 76,
+        "name": "Mago Bravo",
+        "vocation": "Mago",
+        "level": 122,
+        "experience": 44158599,
+        "server": "Onix"
+    },
+    {
+        "id": 77,
+        "name": "Gordinho Pederasta",
+        "vocation": "Mago",
+        "level": 120,
+        "experience": 41796852,
+        "server": "Onix"
+    },
+    {
+        "id": 78,
+        "name": "Depiladinha",
+        "vocation": "Mago",
+        "level": 119,
+        "experience": 41398965,
+        "server": "Onix"
+    },
+    {
+        "id": 79,
+        "name": "Srthehell",
+        "vocation": "Mago",
+        "level": 118,
+        "experience": 40288378,
+        "server": "Onix"
+    },
+    {
+        "id": 80,
+        "name": "Duw",
+        "vocation": "Mago",
+        "level": 117,
+        "experience": 39437382,
+        "server": "Onix"
+    },
+    {
+        "id": 81,
+        "name": "Lizy",
+        "vocation": "Mago",
+        "level": 117,
+        "experience": 39067655,
+        "server": "Onix"
+    },
+    {
+        "id": 82,
+        "name": "Wizard Hao",
+        "vocation": "Mago",
+        "level": 117,
+        "experience": 38747717,
+        "server": "Onix"
+    },
+    {
+        "id": 83,
+        "name": "Jack Sporrou",
+        "vocation": "Mago",
+        "level": 116,
+        "experience": 38663208,
+        "server": "Onix"
+    },
+    {
+        "id": 84,
+        "name": "Pedroza",
+        "vocation": "Mago",
+        "level": 116,
+        "experience": 37745182,
+        "server": "Onix"
+    },
+    {
+        "id": 85,
+        "name": "Greaf",
+        "vocation": "Mago",
+        "level": 116,
+        "experience": 37710937,
+        "server": "Onix"
+    },
+    {
+        "id": 86,
+        "name": "Hykkaruss",
+        "vocation": "Mago",
+        "level": 115,
+        "experience": 37263615,
+        "server": "Onix"
+    },
+    {
+        "id": 87,
+        "name": "Buca Malvado",
+        "vocation": "Mago",
+        "level": 115,
+        "experience": 37086896,
+        "server": "Onix"
+    },
+    {
+        "id": 88,
+        "name": "Carnotaura",
+        "vocation": "Mago",
+        "level": 115,
+        "experience": 36996734,
+        "server": "Onix"
+    },
+    {
+        "id": 89,
+        "name": "Fhek",
+        "vocation": "Mago",
+        "level": 113,
+        "experience": 35193649,
+        "server": "Onix"
+    },
+    {
+        "id": 90,
+        "name": "Ethron",
+        "vocation": "Mago",
+        "level": 112,
+        "experience": 34182265,
+        "server": "Onix"
+    },
+    {
+        "id": 91,
+        "name": "Char Man Der",
+        "vocation": "Mago",
+        "level": 111,
+        "experience": 32997502,
+        "server": "Onix"
+    },
+    {
+        "id": 92,
+        "name": "Pimentel",
+        "vocation": "Mago",
+        "level": 110,
+        "experience": 32238228,
+        "server": "Onix"
+    },
+    {
+        "id": 93,
+        "name": "Auron Magician",
+        "vocation": "Mago",
+        "level": 109,
+        "experience": 32020725,
+        "server": "Onix"
+    },
+    {
+        "id": 94,
+        "name": "Proxasca",
+        "vocation": "Mago",
+        "level": 109,
+        "experience": 31925924,
+        "server": "Onix"
+    },
+    {
+        "id": 95,
+        "name": "Essa Fadonna",
+        "vocation": "Mago",
+        "level": 109,
+        "experience": 31304164,
+        "server": "Onix"
+    },
+    {
+        "id": 96,
+        "name": "Aluny",
+        "vocation": "Mago",
+        "level": 108,
+        "experience": 31117066,
+        "server": "Onix"
+    },
+    {
+        "id": 97,
+        "name": "Vakael",
+        "vocation": "Mago",
+        "level": 108,
+        "experience": 30648212,
+        "server": "Onix"
+    },
+    {
+        "id": 98,
+        "name": "Nettle",
+        "vocation": "Mago",
+        "level": 107,
+        "experience": 29881172,
+        "server": "Onix"
+    },
+    {
+        "id": 99,
+        "name": "Max Fleury",
+        "vocation": "Mago",
+        "level": 107,
+        "experience": 29638461,
+        "server": "Onix"
+    },
+    {
+        "id": 100,
+        "name": "Ricardona",
+        "vocation": "Mago",
+        "level": 106,
+        "experience": 29027325,
+        "server": "Onix"
+    },
+    {
+        "id": 101,
+        "name": "Pato Malo",
+        "vocation": "Mago",
+        "level": 634,
+        "experience": 8310134715,
+        "server": "Ruby"
+    },
+    {
+        "id": 102,
+        "name": "Feiticeira Escarlate",
+        "vocation": "Mago",
+        "level": 615,
+        "experience": 6621525065,
+        "server": "Ruby"
+    },
+    {
+        "id": 103,
+        "name": "Massarico",
+        "vocation": "Mago",
+        "level": 607,
+        "experience": 5984726636,
+        "server": "Ruby"
+    },
+    {
+        "id": 104,
+        "name": "Don Maya",
+        "vocation": "Mago",
+        "level": 477,
+        "experience": 2705316073,
+        "server": "Ruby"
+    },
+    {
+        "id": 105,
+        "name": "Jack Sperma",
+        "vocation": "Mago",
+        "level": 452,
+        "experience": 2297204876,
+        "server": "Ruby"
+    },
+    {
+        "id": 106,
+        "name": "Karamrap",
+        "vocation": "Mago",
+        "level": 410,
+        "experience": 1711469664,
+        "server": "Ruby"
+    },
+    {
+        "id": 107,
+        "name": "Exagero Maclaud",
+        "vocation": "Mago",
+        "level": 405,
+        "experience": 1648652174,
+        "server": "Ruby"
+    },
+    {
+        "id": 108,
+        "name": "Renega",
+        "vocation": "Mago",
+        "level": 398,
+        "experience": 1570219191,
+        "server": "Ruby"
+    },
+    {
+        "id": 109,
+        "name": "Scarleite",
+        "vocation": "Mago",
+        "level": 398,
+        "experience": 1568515681,
+        "server": "Ruby"
+    },
+    {
+        "id": 110,
+        "name": "Cachorro Muralha",
+        "vocation": "Mago",
+        "level": 392,
+        "experience": 1493374933,
+        "server": "Ruby"
+    },
+    {
+        "id": 111,
+        "name": "Yzeerd",
+        "vocation": "Mago",
+        "level": 348,
+        "experience": 1042073922,
+        "server": "Ruby"
+    },
+    {
+        "id": 112,
+        "name": "Zerphiros",
+        "vocation": "Mago",
+        "level": 342,
+        "experience": 988649275,
+        "server": "Ruby"
+    },
+    {
+        "id": 113,
+        "name": "Nekro Shibaba",
+        "vocation": "Mago",
+        "level": 336,
+        "experience": 939716160,
+        "server": "Ruby"
+    },
+    {
+        "id": 114,
+        "name": "Ryuh Shelby",
+        "vocation": "Mago",
+        "level": 329,
+        "experience": 880125512,
+        "server": "Ruby"
+    },
+    {
+        "id": 115,
+        "name": "Weslao Arrogante",
+        "vocation": "Mago",
+        "level": 325,
+        "experience": 849709123,
+        "server": "Ruby"
+    },
+    {
+        "id": 116,
+        "name": "Vrumzin",
+        "vocation": "Mago",
+        "level": 317,
+        "experience": 789111646,
+        "server": "Ruby"
+    },
+    {
+        "id": 117,
+        "name": "Jequiti",
+        "vocation": "Mago",
+        "level": 300,
+        "experience": 670407800,
+        "server": "Ruby"
+    },
+    {
+        "id": 118,
+        "name": "Don Balla Romeo",
+        "vocation": "Mago",
+        "level": 299,
+        "experience": 664366167,
+        "server": "Ruby"
+    },
+    {
+        "id": 119,
+        "name": "Grigori Rasputin",
+        "vocation": "Mago",
+        "level": 294,
+        "experience": 631949598,
+        "server": "Ruby"
+    },
+    {
+        "id": 120,
+        "name": "Tempesta",
+        "vocation": "Mago",
+        "level": 292,
+        "experience": 619865515,
+        "server": "Ruby"
+    },
+    {
+        "id": 121,
+        "name": "Machadoox",
+        "vocation": "Mago",
+        "level": 286,
+        "experience": 582083000,
+        "server": "Ruby"
+    },
+    {
+        "id": 122,
+        "name": "Elder Wiscon",
+        "vocation": "Mago",
+        "level": 278,
+        "experience": 530303551,
+        "server": "Ruby"
+    },
+    {
+        "id": 123,
+        "name": "Cuscuz Lover",
+        "vocation": "Mago",
+        "level": 276,
+        "experience": 523092203,
+        "server": "Ruby"
+    },
+    {
+        "id": 124,
+        "name": "Rovedaj",
+        "vocation": "Mago",
+        "level": 271,
+        "experience": 493844000,
+        "server": "Ruby"
+    },
+    {
+        "id": 125,
+        "name": "Renega Maclaud",
+        "vocation": "Mago",
+        "level": 268,
+        "experience": 476002682,
+        "server": "Ruby"
+    },
+    {
+        "id": 126,
+        "name": "Cansei",
+        "vocation": "Mago",
+        "level": 263,
+        "experience": 448806242,
+        "server": "Ruby"
+    },
+    {
+        "id": 127,
+        "name": "Paanda Maclaud",
+        "vocation": "Mago",
+        "level": 255,
+        "experience": 409395805,
+        "server": "Ruby"
+    },
+    {
+        "id": 128,
+        "name": "Pogdone",
+        "vocation": "Mago",
+        "level": 252,
+        "experience": 395858763,
+        "server": "Ruby"
+    },
+    {
+        "id": 129,
+        "name": "Necropotence",
+        "vocation": "Mago",
+        "level": 246,
+        "experience": 370600802,
+        "server": "Ruby"
+    },
+    {
+        "id": 130,
+        "name": "Lous Bland",
+        "vocation": "Mago",
+        "level": 243,
+        "experience": 355306795,
+        "server": "Ruby"
+    },
+    {
+        "id": 131,
+        "name": "Old Jeffao",
+        "vocation": "Mago",
+        "level": 226,
+        "experience": 284062502,
+        "server": "Ruby"
+    },
+    {
+        "id": 132,
+        "name": "Sheikyi",
+        "vocation": "Mago",
+        "level": 223,
+        "experience": 275240575,
+        "server": "Ruby"
+    },
+    {
+        "id": 133,
+        "name": "Muscaria",
+        "vocation": "Mago",
+        "level": 217,
+        "experience": 251384470,
+        "server": "Ruby"
+    },
+    {
+        "id": 134,
+        "name": "Kurupir",
+        "vocation": "Mago",
+        "level": 216,
+        "experience": 247384013,
+        "server": "Ruby"
+    },
+    {
+        "id": 135,
+        "name": "Machadoxx",
+        "vocation": "Mago",
+        "level": 214,
+        "experience": 241188871,
+        "server": "Ruby"
+    },
+    {
+        "id": 136,
+        "name": "Sexy Mode",
+        "vocation": "Mago",
+        "level": 211,
+        "experience": 233409601,
+        "server": "Ruby"
+    },
+    {
+        "id": 137,
+        "name": "Bolaina Platinado",
+        "vocation": "Mago",
+        "level": 210,
+        "experience": 227585749,
+        "server": "Ruby"
+    },
+    {
+        "id": 138,
+        "name": "Nemisiz",
+        "vocation": "Mago",
+        "level": 206,
+        "experience": 215553000,
+        "server": "Ruby"
+    },
+    {
+        "id": 139,
+        "name": "Defectsz",
+        "vocation": "Mago",
+        "level": 204,
+        "experience": 209817688,
+        "server": "Ruby"
+    },
+    {
+        "id": 140,
+        "name": "Relaxa Padrin",
+        "vocation": "Mago",
+        "level": 203,
+        "experience": 207236670,
+        "server": "Ruby"
+    },
+    {
+        "id": 141,
+        "name": "The Insany",
+        "vocation": "Mago",
+        "level": 203,
+        "experience": 205373433,
+        "server": "Ruby"
+    },
+    {
+        "id": 142,
+        "name": "Perereka Alada",
+        "vocation": "Mago",
+        "level": 198,
+        "experience": 192008681,
+        "server": "Ruby"
+    },
+    {
+        "id": 143,
+        "name": "Balallaika",
+        "vocation": "Mago",
+        "level": 196,
+        "experience": 185450000,
+        "server": "Ruby"
+    },
+    {
+        "id": 144,
+        "name": "Gaunter Odimm",
+        "vocation": "Mago",
+        "level": 195,
+        "experience": 182432829,
+        "server": "Ruby"
+    },
+    {
+        "id": 145,
+        "name": "Allen Walker",
+        "vocation": "Mago",
+        "level": 195,
+        "experience": 182419854,
+        "server": "Ruby"
+    },
+    {
+        "id": 146,
+        "name": "Kelsz",
+        "vocation": "Mago",
+        "level": 189,
+        "experience": 165811370,
+        "server": "Ruby"
+    },
+    {
+        "id": 147,
+        "name": "San Jones",
+        "vocation": "Mago",
+        "level": 184,
+        "experience": 154061815,
+        "server": "Ruby"
+    },
+    {
+        "id": 148,
+        "name": "Salazar Slytherin",
+        "vocation": "Mago",
+        "level": 181,
+        "experience": 145848000,
+        "server": "Ruby"
+    },
+    {
+        "id": 149,
+        "name": "Lurdinha Revoltada",
+        "vocation": "Mago",
+        "level": 180,
+        "experience": 142877000,
+        "server": "Ruby"
+    },
+    {
+        "id": 150,
+        "name": "Megitsune",
+        "vocation": "Mago",
+        "level": 179,
+        "experience": 140979000,
+        "server": "Ruby"
+    },
+    {
+        "id": 151,
+        "name": "Crystal Maiden",
+        "vocation": "Mago",
+        "level": 178,
+        "experience": 139726289,
+        "server": "Ruby"
+    },
+    {
+        "id": 152,
+        "name": "Smite",
+        "vocation": "Mago",
+        "level": 178,
+        "experience": 139695723,
+        "server": "Ruby"
+    },
+    {
+        "id": 153,
+        "name": "Gringovsk",
+        "vocation": "Mago",
+        "level": 173,
+        "experience": 127187675,
+        "server": "Ruby"
+    },
+    {
+        "id": 154,
+        "name": "Maladeza",
+        "vocation": "Mago",
+        "level": 171,
+        "experience": 122390176,
+        "server": "Ruby"
+    },
+    {
+        "id": 155,
+        "name": "Yukizos",
+        "vocation": "Mago",
+        "level": 170,
+        "experience": 120297687,
+        "server": "Ruby"
+    },
+    {
+        "id": 156,
+        "name": "Kobra Dagua",
+        "vocation": "Mago",
+        "level": 169,
+        "experience": 119289000,
+        "server": "Ruby"
+    },
+    {
+        "id": 157,
+        "name": "Bia",
+        "vocation": "Mago",
+        "level": 168,
+        "experience": 117639840,
+        "server": "Ruby"
+    },
+    {
+        "id": 158,
+        "name": "Boz",
+        "vocation": "Mago",
+        "level": 168,
+        "experience": 115763385,
+        "server": "Ruby"
+    },
+    {
+        "id": 159,
+        "name": "Balloozeras",
+        "vocation": "Mago",
+        "level": 166,
+        "experience": 112584312,
+        "server": "Ruby"
+    },
+    {
+        "id": 160,
+        "name": "Master Splinter",
+        "vocation": "Mago",
+        "level": 165,
+        "experience": 109832690,
+        "server": "Ruby"
+    },
+    {
+        "id": 161,
+        "name": "Puleidavaranda",
+        "vocation": "Mago",
+        "level": 165,
+        "experience": 109721000,
+        "server": "Ruby"
+    },
+    {
+        "id": 162,
+        "name": "Lhukera",
+        "vocation": "Mago",
+        "level": 163,
+        "experience": 105975000,
+        "server": "Ruby"
+    },
+    {
+        "id": 163,
+        "name": "Kosta",
+        "vocation": "Mago",
+        "level": 161,
+        "experience": 103505388,
+        "server": "Ruby"
+    },
+    {
+        "id": 164,
+        "name": "Thunder Storm",
+        "vocation": "Mago",
+        "level": 159,
+        "experience": 99818272,
+        "server": "Ruby"
+    },
+    {
+        "id": 165,
+        "name": "Alo Theaso",
+        "vocation": "Mago",
+        "level": 159,
+        "experience": 98153122,
+        "server": "Ruby"
+    },
+    {
+        "id": 166,
+        "name": "Baianista",
+        "vocation": "Mago",
+        "level": 157,
+        "experience": 95506839,
+        "server": "Ruby"
+    },
+    {
+        "id": 167,
+        "name": "Helaman",
+        "vocation": "Mago",
+        "level": 157,
+        "experience": 95095800,
+        "server": "Ruby"
+    },
+    {
+        "id": 168,
+        "name": "Adriele Aareaphyr",
+        "vocation": "Mago",
+        "level": 156,
+        "experience": 93909940,
+        "server": "Ruby"
+    },
+    {
+        "id": 169,
+        "name": "Menino Veste Azul",
+        "vocation": "Mago",
+        "level": 155,
+        "experience": 91992529,
+        "server": "Ruby"
+    },
+    {
+        "id": 170,
+        "name": "Sideways",
+        "vocation": "Mago",
+        "level": 154,
+        "experience": 89794400,
+        "server": "Ruby"
+    },
+    {
+        "id": 171,
+        "name": "Master Maya",
+        "vocation": "Mago",
+        "level": 154,
+        "experience": 89318743,
+        "server": "Ruby"
+    },
+    {
+        "id": 172,
+        "name": "Lost Mage",
+        "vocation": "Mago",
+        "level": 153,
+        "experience": 88830628,
+        "server": "Ruby"
+    },
+    {
+        "id": 173,
+        "name": "Sanna",
+        "vocation": "Mago",
+        "level": 153,
+        "experience": 87334539,
+        "server": "Ruby"
+    },
+    {
+        "id": 174,
+        "name": "King Harlequin",
+        "vocation": "Mago",
+        "level": 153,
+        "experience": 87234723,
+        "server": "Ruby"
+    },
+    {
+        "id": 175,
+        "name": "Gatterzin",
+        "vocation": "Mago",
+        "level": 152,
+        "experience": 86715242,
+        "server": "Ruby"
+    },
+    {
+        "id": 176,
+        "name": "Super Girl",
+        "vocation": "Mago",
+        "level": 152,
+        "experience": 85754715,
+        "server": "Ruby"
+    },
+    {
+        "id": 177,
+        "name": "Diingonbel",
+        "vocation": "Mago",
+        "level": 152,
+        "experience": 85559648,
+        "server": "Ruby"
+    },
+    {
+        "id": 178,
+        "name": "Triskle",
+        "vocation": "Mago",
+        "level": 151,
+        "experience": 85262970,
+        "server": "Ruby"
+    },
+    {
+        "id": 179,
+        "name": "Lomaz",
+        "vocation": "Mago",
+        "level": 151,
+        "experience": 84422931,
+        "server": "Ruby"
+    },
+    {
+        "id": 180,
+        "name": "Gabriel Papeel",
+        "vocation": "Mago",
+        "level": 151,
+        "experience": 84242120,
+        "server": "Ruby"
+    },
+    {
+        "id": 181,
+        "name": "Vamew",
+        "vocation": "Mago",
+        "level": 150,
+        "experience": 82806516,
+        "server": "Ruby"
+    },
+    {
+        "id": 182,
+        "name": "Brog Arrogante",
+        "vocation": "Mago",
+        "level": 148,
+        "experience": 80167015,
+        "server": "Ruby"
+    },
+    {
+        "id": 183,
+        "name": "Shockwave",
+        "vocation": "Mago",
+        "level": 148,
+        "experience": 79054527,
+        "server": "Ruby"
+    },
+    {
+        "id": 184,
+        "name": "Jainna",
+        "vocation": "Mago",
+        "level": 148,
+        "experience": 79004937,
+        "server": "Ruby"
+    },
+    {
+        "id": 185,
+        "name": "Reaper Butcher",
+        "vocation": "Mago",
+        "level": 144,
+        "experience": 73818839,
+        "server": "Ruby"
+    },
+    {
+        "id": 186,
+        "name": "Dan Chucky",
+        "vocation": "Mago",
+        "level": 144,
+        "experience": 73357582,
+        "server": "Ruby"
+    },
+    {
+        "id": 187,
+        "name": "Haverok Bruxo",
+        "vocation": "Mago",
+        "level": 144,
+        "experience": 73202182,
+        "server": "Ruby"
+    },
+    {
+        "id": 188,
+        "name": "Magezin Sequelado",
+        "vocation": "Mago",
+        "level": 144,
+        "experience": 72866800,
+        "server": "Ruby"
+    },
+    {
+        "id": 189,
+        "name": "Rete Cabal",
+        "vocation": "Mago",
+        "level": 143,
+        "experience": 71527516,
+        "server": "Ruby"
+    },
+    {
+        "id": 190,
+        "name": "Duquezin",
+        "vocation": "Mago",
+        "level": 142,
+        "experience": 70297278,
+        "server": "Ruby"
+    },
+    {
+        "id": 191,
+        "name": "Hyperstorm",
+        "vocation": "Mago",
+        "level": 142,
+        "experience": 70112540,
+        "server": "Ruby"
+    },
+    {
+        "id": 192,
+        "name": "Lichen",
+        "vocation": "Mago",
+        "level": 142,
+        "experience": 69817823,
+        "server": "Ruby"
+    },
+    {
+        "id": 193,
+        "name": "Nyanna Kryzix",
+        "vocation": "Mago",
+        "level": 140,
+        "experience": 67894454,
+        "server": "Ruby"
+    },
+    {
+        "id": 194,
+        "name": "Diabinho",
+        "vocation": "Mago",
+        "level": 140,
+        "experience": 66967755,
+        "server": "Ruby"
+    },
+    {
+        "id": 195,
+        "name": "Reversa",
+        "vocation": "Mago",
+        "level": 140,
+        "experience": 66955827,
+        "server": "Ruby"
+    },
+    {
+        "id": 196,
+        "name": "Jowzao",
+        "vocation": "Mago",
+        "level": 139,
+        "experience": 65400300,
+        "server": "Ruby"
+    },
+    {
+        "id": 197,
+        "name": "Erindur",
+        "vocation": "Mago",
+        "level": 138,
+        "experience": 64056906,
+        "server": "Ruby"
+    },
+    {
+        "id": 198,
+        "name": "Abak",
+        "vocation": "Mago",
+        "level": 137,
+        "experience": 62871258,
+        "server": "Ruby"
+    },
+    {
+        "id": 199,
+        "name": "Dutilh Maclaud",
+        "vocation": "Mago",
+        "level": 137,
+        "experience": 62702900,
+        "server": "Ruby"
+    },
+    {
+        "id": 200,
+        "name": "Little Pony",
+        "vocation": "Mago",
+        "level": 136,
+        "experience": 62296848,
+        "server": "Ruby"
+    },
+    {
+        "id": 201,
+        "name": "Varlord",
+        "vocation": "Mago",
+        "level": 420,
+        "experience": 1843584556,
+        "server": "Jasper"
+    },
+    {
+        "id": 202,
+        "name": "Inomagiczny",
+        "vocation": "Mago",
+        "level": 385,
+        "experience": 1414507074,
+        "server": "Jasper"
+    },
+    {
+        "id": 203,
+        "name": "Gingervitus Zaban",
+        "vocation": "Mago",
+        "level": 269,
+        "experience": 482076169,
+        "server": "Jasper"
+    },
+    {
+        "id": 204,
+        "name": "Mighz",
+        "vocation": "Mago",
+        "level": 259,
+        "experience": 429186295,
+        "server": "Jasper"
+    },
+    {
+        "id": 205,
+        "name": "Anal Bandit",
+        "vocation": "Mago",
+        "level": 256,
+        "experience": 416487040,
+        "server": "Jasper"
+    },
+    {
+        "id": 206,
+        "name": "Czarujacy Michau",
+        "vocation": "Mago",
+        "level": 236,
+        "experience": 324131071,
+        "server": "Jasper"
+    },
+    {
+        "id": 207,
+        "name": "Atropo",
+        "vocation": "Mago",
+        "level": 230,
+        "experience": 302273255,
+        "server": "Jasper"
+    },
+    {
+        "id": 208,
+        "name": "Szamancarloss",
+        "vocation": "Mago",
+        "level": 211,
+        "experience": 231605158,
+        "server": "Jasper"
+    },
+    {
+        "id": 209,
+        "name": "Dementor",
+        "vocation": "Mago",
+        "level": 207,
+        "experience": 218157573,
+        "server": "Jasper"
+    },
+    {
+        "id": 210,
+        "name": "Haoosu",
+        "vocation": "Mago",
+        "level": 178,
+        "experience": 138840929,
+        "server": "Jasper"
+    },
+    {
+        "id": 211,
+        "name": "Awesome Kracha",
+        "vocation": "Mago",
+        "level": 159,
+        "experience": 98326976,
+        "server": "Jasper"
+    },
+    {
+        "id": 212,
+        "name": "Erest",
+        "vocation": "Mago",
+        "level": 153,
+        "experience": 87715121,
+        "server": "Jasper"
+    },
+    {
+        "id": 213,
+        "name": "Adriansan",
+        "vocation": "Mago",
+        "level": 149,
+        "experience": 81524888,
+        "server": "Jasper"
+    },
+    {
+        "id": 214,
+        "name": "Drako",
+        "vocation": "Mago",
+        "level": 125,
+        "experience": 47834358,
+        "server": "Jasper"
+    },
+    {
+        "id": 215,
+        "name": "Gango",
+        "vocation": "Mago",
+        "level": 124,
+        "experience": 47047878,
+        "server": "Jasper"
+    },
+    {
+        "id": 216,
+        "name": "Cadah",
+        "vocation": "Mago",
+        "level": 109,
+        "experience": 31494949,
+        "server": "Jasper"
+    },
+    {
+        "id": 217,
+        "name": "Magii",
+        "vocation": "Mago",
+        "level": 106,
+        "experience": 29156972,
+        "server": "Jasper"
+    },
+    {
+        "id": 218,
+        "name": "Clony Inferno",
+        "vocation": "Mago",
+        "level": 106,
+        "experience": 28825193,
+        "server": "Jasper"
+    },
+    {
+        "id": 219,
+        "name": "Ketion",
+        "vocation": "Mago",
+        "level": 105,
+        "experience": 28256782,
+        "server": "Jasper"
+    },
+    {
+        "id": 220,
+        "name": "Fireman",
+        "vocation": "Mago",
+        "level": 104,
+        "experience": 27747072,
+        "server": "Jasper"
+    },
+    {
+        "id": 221,
+        "name": "Morthon",
+        "vocation": "Mago",
+        "level": 102,
+        "experience": 25783850,
+        "server": "Jasper"
+    },
+    {
+        "id": 222,
+        "name": "Justbloody",
+        "vocation": "Mago",
+        "level": 102,
+        "experience": 25616856,
+        "server": "Jasper"
+    },
+    {
+        "id": 223,
+        "name": "Czarny Pan",
+        "vocation": "Mago",
+        "level": 102,
+        "experience": 25513047,
+        "server": "Jasper"
+    },
+    {
+        "id": 224,
+        "name": "Fury",
+        "vocation": "Mago",
+        "level": 100,
+        "experience": 24188838,
+        "server": "Jasper"
+    },
+    {
+        "id": 225,
+        "name": "Fingerout",
+        "vocation": "Mago",
+        "level": 97,
+        "experience": 22157999,
+        "server": "Jasper"
+    },
+    {
+        "id": 226,
+        "name": "Zbakany",
+        "vocation": "Mago",
+        "level": 96,
+        "experience": 21458331,
+        "server": "Jasper"
+    },
+    {
+        "id": 227,
+        "name": "Icons",
+        "vocation": "Mago",
+        "level": 92,
+        "experience": 18863617,
+        "server": "Jasper"
+    },
+    {
+        "id": 228,
+        "name": "Julenth",
+        "vocation": "Mago",
+        "level": 91,
+        "experience": 18179066,
+        "server": "Jasper"
+    },
+    {
+        "id": 229,
+        "name": "Steper",
+        "vocation": "Mago",
+        "level": 90,
+        "experience": 17624778,
+        "server": "Jasper"
+    },
+    {
+        "id": 230,
+        "name": "Debulbulator",
+        "vocation": "Mago",
+        "level": 88,
+        "experience": 16430664,
+        "server": "Jasper"
+    },
+    {
+        "id": 231,
+        "name": "Mario Pudzianowski",
+        "vocation": "Mago",
+        "level": 86,
+        "experience": 15306880,
+        "server": "Jasper"
+    },
+    {
+        "id": 232,
+        "name": "Rdkhot",
+        "vocation": "Mago",
+        "level": 84,
+        "experience": 14167725,
+        "server": "Jasper"
+    },
+    {
+        "id": 233,
+        "name": "Hani",
+        "vocation": "Mago",
+        "level": 83,
+        "experience": 14113894,
+        "server": "Jasper"
+    },
+    {
+        "id": 234,
+        "name": "Rav Annoying",
+        "vocation": "Mago",
+        "level": 83,
+        "experience": 13674822,
+        "server": "Jasper"
+    },
+    {
+        "id": 235,
+        "name": "Magik Iluzjonista",
+        "vocation": "Mago",
+        "level": 80,
+        "experience": 12575710,
+        "server": "Jasper"
+    },
+    {
+        "id": 236,
+        "name": "Sephi",
+        "vocation": "Mago",
+        "level": 80,
+        "experience": 12430652,
+        "server": "Jasper"
+    },
+    {
+        "id": 237,
+        "name": "Zajkii",
+        "vocation": "Mago",
+        "level": 80,
+        "experience": 12185396,
+        "server": "Jasper"
+    },
+    {
+        "id": 238,
+        "name": "Karczums",
+        "vocation": "Mago",
+        "level": 79,
+        "experience": 12085441,
+        "server": "Jasper"
+    },
+    {
+        "id": 239,
+        "name": "Nike Mage",
+        "vocation": "Mago",
+        "level": 79,
+        "experience": 12033823,
+        "server": "Jasper"
+    },
+    {
+        "id": 240,
+        "name": "Jestemocny",
+        "vocation": "Mago",
+        "level": 79,
+        "experience": 11774408,
+        "server": "Jasper"
+    },
+    {
+        "id": 241,
+        "name": "Orc Berserker",
+        "vocation": "Mago",
+        "level": 78,
+        "experience": 11579960,
+        "server": "Jasper"
+    },
+    {
+        "id": 242,
+        "name": "Fleksiuu",
+        "vocation": "Mago",
+        "level": 77,
+        "experience": 10893035,
+        "server": "Jasper"
+    },
+    {
+        "id": 243,
+        "name": "Kisiol",
+        "vocation": "Mago",
+        "level": 76,
+        "experience": 10585603,
+        "server": "Jasper"
+    },
+    {
+        "id": 244,
+        "name": "Neway Here",
+        "vocation": "Mago",
+        "level": 76,
+        "experience": 10559913,
+        "server": "Jasper"
+    },
+    {
+        "id": 245,
+        "name": "Szydlos",
+        "vocation": "Mago",
+        "level": 75,
+        "experience": 10381993,
+        "server": "Jasper"
+    },
+    {
+        "id": 246,
+        "name": "Mroku",
+        "vocation": "Mago",
+        "level": 74,
+        "experience": 9780930,
+        "server": "Jasper"
+    },
+    {
+        "id": 247,
+        "name": "Marianek",
+        "vocation": "Mago",
+        "level": 74,
+        "experience": 9632660,
+        "server": "Jasper"
+    },
+    {
+        "id": 248,
+        "name": "Anomen",
+        "vocation": "Mago",
+        "level": 72,
+        "experience": 9006849,
+        "server": "Jasper"
+    },
+    {
+        "id": 249,
+        "name": "Eriistof",
+        "vocation": "Mago",
+        "level": 72,
+        "experience": 8838871,
+        "server": "Jasper"
+    },
+    {
+        "id": 250,
+        "name": "Zinty",
+        "vocation": "Mago",
+        "level": 71,
+        "experience": 8677789,
+        "server": "Jasper"
+    },
+    {
+        "id": 251,
+        "name": "Mrok",
+        "vocation": "Mago",
+        "level": 69,
+        "experience": 7772225,
+        "server": "Jasper"
+    },
+    {
+        "id": 252,
+        "name": "Outcleared",
+        "vocation": "Mago",
+        "level": 68,
+        "experience": 7545916,
+        "server": "Jasper"
+    },
+    {
+        "id": 253,
+        "name": "Rzaba",
+        "vocation": "Mago",
+        "level": 67,
+        "experience": 7359320,
+        "server": "Jasper"
+    },
+    {
+        "id": 254,
+        "name": "Kutnakinte",
+        "vocation": "Mago",
+        "level": 63,
+        "experience": 6036078,
+        "server": "Jasper"
+    },
+    {
+        "id": 255,
+        "name": "Tri Nity",
+        "vocation": "Mago",
+        "level": 63,
+        "experience": 5887023,
+        "server": "Jasper"
+    },
+    {
+        "id": 256,
+        "name": "Molequiz",
+        "vocation": "Mago",
+        "level": 62,
+        "experience": 5767612,
+        "server": "Jasper"
+    },
+    {
+        "id": 257,
+        "name": "Momolit",
+        "vocation": "Mago",
+        "level": 62,
+        "experience": 5677100,
+        "server": "Jasper"
+    },
+    {
+        "id": 258,
+        "name": "Uniblu",
+        "vocation": "Mago",
+        "level": 62,
+        "experience": 5674130,
+        "server": "Jasper"
+    },
+    {
+        "id": 259,
+        "name": "Trpach",
+        "vocation": "Mago",
+        "level": 62,
+        "experience": 5626834,
+        "server": "Jasper"
+    },
+    {
+        "id": 260,
+        "name": "Clon",
+        "vocation": "Mago",
+        "level": 61,
+        "experience": 5545059,
+        "server": "Jasper"
+    },
+    {
+        "id": 261,
+        "name": "Baxondzi",
+        "vocation": "Mago",
+        "level": 61,
+        "experience": 5317230,
+        "server": "Jasper"
+    },
+    {
+        "id": 262,
+        "name": "Cuate Acosta",
+        "vocation": "Mago",
+        "level": 60,
+        "experience": 5112531,
+        "server": "Jasper"
+    },
+    {
+        "id": 263,
+        "name": "Nasuke",
+        "vocation": "Mago",
+        "level": 60,
+        "experience": 5105282,
+        "server": "Jasper"
+    },
+    {
+        "id": 264,
+        "name": "Drake",
+        "vocation": "Mago",
+        "level": 60,
+        "experience": 5080391,
+        "server": "Jasper"
+    },
+    {
+        "id": 265,
+        "name": "King Ovelion",
+        "vocation": "Mago",
+        "level": 60,
+        "experience": 5065032,
+        "server": "Jasper"
+    },
+    {
+        "id": 266,
+        "name": "Balcerek",
+        "vocation": "Mago",
+        "level": 59,
+        "experience": 4972441,
+        "server": "Jasper"
+    },
+    {
+        "id": 267,
+        "name": "Goraca Czarna Magia",
+        "vocation": "Mago",
+        "level": 59,
+        "experience": 4964755,
+        "server": "Jasper"
+    },
+    {
+        "id": 268,
+        "name": "Kawka",
+        "vocation": "Mago",
+        "level": 59,
+        "experience": 4927217,
+        "server": "Jasper"
+    },
+    {
+        "id": 269,
+        "name": "Vezasi",
+        "vocation": "Mago",
+        "level": 58,
+        "experience": 4790069,
+        "server": "Jasper"
+    },
+    {
+        "id": 270,
+        "name": "Kolek",
+        "vocation": "Mago",
+        "level": 58,
+        "experience": 4787026,
+        "server": "Jasper"
+    },
+    {
+        "id": 271,
+        "name": "Drewnix",
+        "vocation": "Mago",
+        "level": 58,
+        "experience": 4676099,
+        "server": "Jasper"
+    },
+    {
+        "id": 272,
+        "name": "Yolomag",
+        "vocation": "Mago",
+        "level": 58,
+        "experience": 4570368,
+        "server": "Jasper"
+    },
+    {
+        "id": 273,
+        "name": "Matykk",
+        "vocation": "Mago",
+        "level": 57,
+        "experience": 4518847,
+        "server": "Jasper"
+    },
+    {
+        "id": 274,
+        "name": "Ussiu",
+        "vocation": "Mago",
+        "level": 57,
+        "experience": 4468014,
+        "server": "Jasper"
+    },
+    {
+        "id": 275,
+        "name": "Tibijskieniebo",
+        "vocation": "Mago",
+        "level": 56,
+        "experience": 4316138,
+        "server": "Jasper"
+    },
+    {
+        "id": 276,
+        "name": "Yoopa",
+        "vocation": "Mago",
+        "level": 56,
+        "experience": 4111011,
+        "server": "Jasper"
+    },
+    {
+        "id": 277,
+        "name": "Pov",
+        "vocation": "Mago",
+        "level": 55,
+        "experience": 4047256,
+        "server": "Jasper"
+    },
+    {
+        "id": 278,
+        "name": "Mashiro",
+        "vocation": "Mago",
+        "level": 55,
+        "experience": 3986154,
+        "server": "Jasper"
+    },
+    {
+        "id": 279,
+        "name": "Mylo",
+        "vocation": "Mago",
+        "level": 55,
+        "experience": 3953914,
+        "server": "Jasper"
+    },
+    {
+        "id": 280,
+        "name": "Virtuoso",
+        "vocation": "Mago",
+        "level": 55,
+        "experience": 3920288,
+        "server": "Jasper"
+    },
+    {
+        "id": 281,
+        "name": "Wolf Peace",
+        "vocation": "Mago",
+        "level": 54,
+        "experience": 3824972,
+        "server": "Jasper"
+    },
+    {
+        "id": 282,
+        "name": "Meriox",
+        "vocation": "Mago",
+        "level": 54,
+        "experience": 3803520,
+        "server": "Jasper"
+    },
+    {
+        "id": 283,
+        "name": "Rido",
+        "vocation": "Mago",
+        "level": 54,
+        "experience": 3789305,
+        "server": "Jasper"
+    },
+    {
+        "id": 284,
+        "name": "Pierdolnij Magika",
+        "vocation": "Mago",
+        "level": 54,
+        "experience": 3743649,
+        "server": "Jasper"
+    },
+    {
+        "id": 285,
+        "name": "Bocciano",
+        "vocation": "Mago",
+        "level": 54,
+        "experience": 3711506,
+        "server": "Jasper"
+    },
+    {
+        "id": 286,
+        "name": "Kamedo",
+        "vocation": "Mago",
+        "level": 54,
+        "experience": 3709096,
+        "server": "Jasper"
+    },
+    {
+        "id": 287,
+        "name": "Xelfros",
+        "vocation": "Mago",
+        "level": 53,
+        "experience": 3630406,
+        "server": "Jasper"
+    },
+    {
+        "id": 288,
+        "name": "Veru",
+        "vocation": "Mago",
+        "level": 53,
+        "experience": 3570805,
+        "server": "Jasper"
+    },
+    {
+        "id": 289,
+        "name": "Tyshael",
+        "vocation": "Mago",
+        "level": 53,
+        "experience": 3538358,
+        "server": "Jasper"
+    },
+    {
+        "id": 290,
+        "name": "Dythor",
+        "vocation": "Mago",
+        "level": 53,
+        "experience": 3458650,
+        "server": "Jasper"
+    },
+    {
+        "id": 291,
+        "name": "Blagmaqico",
+        "vocation": "Mago",
+        "level": 52,
+        "experience": 3367829,
+        "server": "Jasper"
+    },
+    {
+        "id": 292,
+        "name": "Losted",
+        "vocation": "Mago",
+        "level": 52,
+        "experience": 3343986,
+        "server": "Jasper"
+    },
+    {
+        "id": 293,
+        "name": "Hashar",
+        "vocation": "Mago",
+        "level": 51,
+        "experience": 3228493,
+        "server": "Jasper"
+    },
+    {
+        "id": 294,
+        "name": "Piq",
+        "vocation": "Mago",
+        "level": 51,
+        "experience": 3182847,
+        "server": "Jasper"
+    },
+    {
+        "id": 295,
+        "name": "Krychamag",
+        "vocation": "Mago",
+        "level": 51,
+        "experience": 3135478,
+        "server": "Jasper"
+    },
+    {
+        "id": 296,
+        "name": "Asamax",
+        "vocation": "Mago",
+        "level": 50,
+        "experience": 3021053,
+        "server": "Jasper"
+    },
+    {
+        "id": 297,
+        "name": "Newayowsky",
+        "vocation": "Mago",
+        "level": 50,
+        "experience": 2929536,
+        "server": "Jasper"
+    },
+    {
+        "id": 298,
+        "name": "Archinar",
+        "vocation": "Mago",
+        "level": 50,
+        "experience": 2922237,
+        "server": "Jasper"
+    },
+    {
+        "id": 299,
+        "name": "Baron Patriarch",
+        "vocation": "Mago",
+        "level": 49,
+        "experience": 2771516,
+        "server": "Jasper"
+    },
+    {
+        "id": 300,
+        "name": "Thilius",
+        "vocation": "Mago",
+        "level": 48,
+        "experience": 2584700,
+        "server": "Jasper"
+    }
+]
