@@ -3,4 +3,4 @@ Bloodstone Data Repository
 
 Este repositório contém dados públicos dos jogadores de Bloodstone, que serão diariamente atualizados.
 
-<a href="https://www.bloodstonewiki.com.br">Bloodstone Wiki</a>
+<a href="https://www.bloodstonewiki.com.br">Bloodstone Wiki</a> [@megalhoes](https://github.com/megalhoes)
