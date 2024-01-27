@@ -1,0 +1,450 @@
+[
+    {
+        "id": 1,
+        "name": "Blocked",
+        "vocation": "Arqueiro",
+        "level": 15,
+        "experience": 73770,
+        "server": "Onix"
+    },
+    {
+        "id": 2,
+        "name": "Polly Gray",
+        "vocation": "Arqueiro",
+        "level": 10,
+        "experience": 22884,
+        "server": "Onix"
+    },
+    {
+        "id": 3,
+        "name": "Dark Haunter",
+        "vocation": "Arqueiro",
+        "level": 8,
+        "experience": 9387,
+        "server": "Onix"
+    },
+    {
+        "id": 4,
+        "name": "Laneto",
+        "vocation": "Arqueiro",
+        "level": 8,
+        "experience": 8550,
+        "server": "Onix"
+    },
+    {
+        "id": 5,
+        "name": "Moonk",
+        "vocation": "Arqueiro",
+        "level": 7,
+        "experience": 5697,
+        "server": "Onix"
+    },
+    {
+        "id": 6,
+        "name": "Cadz",
+        "vocation": "Arqueiro",
+        "level": 7,
+        "experience": 5679,
+        "server": "Onix"
+    },
+    {
+        "id": 7,
+        "name": "Vuhkar",
+        "vocation": "Arqueiro",
+        "level": 6,
+        "experience": 2925,
+        "server": "Onix"
+    },
+    {
+        "id": 8,
+        "name": "Cabulosao",
+        "vocation": "Arqueiro",
+        "level": 5,
+        "experience": 2664,
+        "server": "Onix"
+    },
+    {
+        "id": 9,
+        "name": "Cocobomgo",
+        "vocation": "Arqueiro",
+        "level": 5,
+        "experience": 1926,
+        "server": "Onix"
+    },
+    {
+        "id": 10,
+        "name": "Ferreira Ferrada",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 1215,
+        "server": "Onix"
+    },
+    {
+        "id": 11,
+        "name": "Jefao Rpzin",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 954,
+        "server": "Onix"
+    },
+    {
+        "id": 12,
+        "name": "Gorobin",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 846,
+        "server": "Onix"
+    },
+    {
+        "id": 13,
+        "name": "Prododo",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 765,
+        "server": "Onix"
+    },
+    {
+        "id": 14,
+        "name": "Biguazinho",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 765,
+        "server": "Onix"
+    },
+    {
+        "id": 15,
+        "name": "Bruno Meira",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 738,
+        "server": "Onix"
+    },
+    {
+        "id": 16,
+        "name": "Bone War",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 729,
+        "server": "Onix"
+    },
+    {
+        "id": 17,
+        "name": "Bixobruto",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 684,
+        "server": "Onix"
+    },
+    {
+        "id": 18,
+        "name": "Ivan Luiz",
+        "vocation": "Arqueiro",
+        "level": 3,
+        "experience": 639,
+        "server": "Onix"
+    },
+    {
+        "id": 19,
+        "name": "Yrving",
+        "vocation": "Arqueiro",
+        "level": 3,
+        "experience": 387,
+        "server": "Onix"
+    },
+    {
+        "id": 20,
+        "name": "Child",
+        "vocation": "Arqueiro",
+        "level": 3,
+        "experience": 378,
+        "server": "Onix"
+    },
+    {
+        "id": 21,
+        "name": "Oriax",
+        "vocation": "Arqueiro",
+        "level": 3,
+        "experience": 297,
+        "server": "Onix"
+    },
+    {
+        "id": 22,
+        "name": "Indyu",
+        "vocation": "Arqueiro",
+        "level": 3,
+        "experience": 279,
+        "server": "Onix"
+    },
+    {
+        "id": 23,
+        "name": "Lucas Sandi",
+        "vocation": "Arqueiro",
+        "level": 3,
+        "experience": 252,
+        "server": "Onix"
+    },
+    {
+        "id": 24,
+        "name": "Tacabolt",
+        "vocation": "Arqueiro",
+        "level": 3,
+        "experience": 225,
+        "server": "Onix"
+    },
+    {
+        "id": 25,
+        "name": "Thalia",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 198,
+        "server": "Onix"
+    },
+    {
+        "id": 26,
+        "name": "Qyop",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 162,
+        "server": "Onix"
+    },
+    {
+        "id": 27,
+        "name": "Krava",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 162,
+        "server": "Onix"
+    },
+    {
+        "id": 28,
+        "name": "Rayuka",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 153,
+        "server": "Onix"
+    },
+    {
+        "id": 29,
+        "name": "Buffa Barbaro",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 153,
+        "server": "Onix"
+    },
+    {
+        "id": 30,
+        "name": "Abrakadraba",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 99,
+        "server": "Onix"
+    },
+    {
+        "id": 31,
+        "name": "Drykan",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 99,
+        "server": "Onix"
+    },
+    {
+        "id": 32,
+        "name": "Iocasan",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 81,
+        "server": "Onix"
+    },
+    {
+        "id": 33,
+        "name": "Clarividencia",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 72,
+        "server": "Onix"
+    },
+    {
+        "id": 34,
+        "name": "Muzzuco",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 63,
+        "server": "Onix"
+    },
+    {
+        "id": 35,
+        "name": "Rikimaro",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 63,
+        "server": "Onix"
+    },
+    {
+        "id": 36,
+        "name": "Colita Jhonson",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 63,
+        "server": "Onix"
+    },
+    {
+        "id": 37,
+        "name": "Hopers",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 54,
+        "server": "Onix"
+    },
+    {
+        "id": 38,
+        "name": "Destruccion",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 54,
+        "server": "Onix"
+    },
+    {
+        "id": 39,
+        "name": "Elon Mousquer",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 45,
+        "server": "Onix"
+    },
+    {
+        "id": 40,
+        "name": "Miihzinha",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 36,
+        "server": "Onix"
+    },
+    {
+        "id": 41,
+        "name": "Brunoaf",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 36,
+        "server": "Onix"
+    },
+    {
+        "id": 42,
+        "name": "Bubba Shibaba",
+        "vocation": "Arqueiro",
+        "level": 8,
+        "experience": 8496,
+        "server": "Ruby"
+    },
+    {
+        "id": 43,
+        "name": "Roque",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 1089,
+        "server": "Ruby"
+    },
+    {
+        "id": 44,
+        "name": "Sir Jammes Mcqueen",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 1044,
+        "server": "Ruby"
+    },
+    {
+        "id": 45,
+        "name": "Zerphiros",
+        "vocation": "Arqueiro",
+        "level": 4,
+        "experience": 801,
+        "server": "Ruby"
+    },
+    {
+        "id": 46,
+        "name": "Fenhir The Wolf",
+        "vocation": "Arqueiro",
+        "level": 3,
+        "experience": 252,
+        "server": "Ruby"
+    },
+    {
+        "id": 47,
+        "name": "Tyaze",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 81,
+        "server": "Ruby"
+    },
+    {
+        "id": 48,
+        "name": "Pignelson",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 45,
+        "server": "Ruby"
+    },
+    {
+        "id": 49,
+        "name": "Ahs",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 45,
+        "server": "Ruby"
+    },
+    {
+        "id": 50,
+        "name": "Gimlinho",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 18,
+        "server": "Ruby"
+    },
+    {
+        "id": 51,
+        "name": "Zielarz Paranoix",
+        "vocation": "Arqueiro",
+        "level": 6,
+        "experience": 4842,
+        "server": "Jasper"
+    },
+    {
+        "id": 52,
+        "name": "Jdsofc",
+        "vocation": "Arqueiro",
+        "level": 6,
+        "experience": 3249,
+        "server": "Jasper"
+    },
+    {
+        "id": 53,
+        "name": "Hania Zuza",
+        "vocation": "Arqueiro",
+        "level": 3,
+        "experience": 279,
+        "server": "Jasper"
+    },
+    {
+        "id": 54,
+        "name": "Raytay",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 126,
+        "server": "Jasper"
+    },
+    {
+        "id": 55,
+        "name": "Mighz",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 90,
+        "server": "Jasper"
+    },
+    {
+        "id": 56,
+        "name": "Don Konduktor",
+        "vocation": "Arqueiro",
+        "level": 2,
+        "experience": 36,
+        "server": "Jasper"
+    }
+]
