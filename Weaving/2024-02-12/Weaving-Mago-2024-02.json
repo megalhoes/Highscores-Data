@@ -1,0 +1,250 @@
+[
+    {
+        "id": 1,
+        "name": "Polly Gray",
+        "vocation": "Mago",
+        "level": 9,
+        "experience": 12573,
+        "server": "Onix"
+    },
+    {
+        "id": 2,
+        "name": "Dark Haunter",
+        "vocation": "Mago",
+        "level": 7,
+        "experience": 6057,
+        "server": "Onix"
+    },
+    {
+        "id": 3,
+        "name": "Moonk",
+        "vocation": "Mago",
+        "level": 6,
+        "experience": 3321,
+        "server": "Onix"
+    },
+    {
+        "id": 4,
+        "name": "Cadz",
+        "vocation": "Mago",
+        "level": 5,
+        "experience": 1575,
+        "server": "Onix"
+    },
+    {
+        "id": 5,
+        "name": "Cabulosao",
+        "vocation": "Mago",
+        "level": 4,
+        "experience": 882,
+        "server": "Onix"
+    },
+    {
+        "id": 6,
+        "name": "Bruno Meira",
+        "vocation": "Mago",
+        "level": 4,
+        "experience": 837,
+        "server": "Onix"
+    },
+    {
+        "id": 7,
+        "name": "Child",
+        "vocation": "Mago",
+        "level": 4,
+        "experience": 828,
+        "server": "Onix"
+    },
+    {
+        "id": 8,
+        "name": "Laneto",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 639,
+        "server": "Onix"
+    },
+    {
+        "id": 9,
+        "name": "Qyop",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 621,
+        "server": "Onix"
+    },
+    {
+        "id": 10,
+        "name": "Rayuka",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 594,
+        "server": "Onix"
+    },
+    {
+        "id": 11,
+        "name": "Billyofhell",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 387,
+        "server": "Onix"
+    },
+    {
+        "id": 12,
+        "name": "Bixobruto",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 360,
+        "server": "Onix"
+    },
+    {
+        "id": 13,
+        "name": "Buffa Barbaro",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 315,
+        "server": "Onix"
+    },
+    {
+        "id": 14,
+        "name": "Bone War",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 297,
+        "server": "Onix"
+    },
+    {
+        "id": 15,
+        "name": "Ivan Luiz",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 297,
+        "server": "Onix"
+    },
+    {
+        "id": 16,
+        "name": "Biguazinho",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 261,
+        "server": "Onix"
+    },
+    {
+        "id": 17,
+        "name": "Drykan",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 234,
+        "server": "Onix"
+    },
+    {
+        "id": 18,
+        "name": "Muzzuco",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 234,
+        "server": "Onix"
+    },
+    {
+        "id": 19,
+        "name": "Brunoaf",
+        "vocation": "Mago",
+        "level": 2,
+        "experience": 153,
+        "server": "Onix"
+    },
+    {
+        "id": 20,
+        "name": "Lucas Sandi",
+        "vocation": "Mago",
+        "level": 2,
+        "experience": 126,
+        "server": "Onix"
+    },
+    {
+        "id": 21,
+        "name": "Jefao Rpzin",
+        "vocation": "Mago",
+        "level": 2,
+        "experience": 126,
+        "server": "Onix"
+    },
+    {
+        "id": 22,
+        "name": "Oriax",
+        "vocation": "Mago",
+        "level": 2,
+        "experience": 36,
+        "server": "Onix"
+    },
+    {
+        "id": 23,
+        "name": "Abrakadraba",
+        "vocation": "Mago",
+        "level": 2,
+        "experience": 18,
+        "server": "Onix"
+    },
+    {
+        "id": 24,
+        "name": "Miihzinha",
+        "vocation": "Mago",
+        "level": 2,
+        "experience": 9,
+        "server": "Onix"
+    },
+    {
+        "id": 25,
+        "name": "Zerphiros",
+        "vocation": "Mago",
+        "level": 4,
+        "experience": 927,
+        "server": "Ruby"
+    },
+    {
+        "id": 26,
+        "name": "Fenhir The Wolf",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 387,
+        "server": "Ruby"
+    },
+    {
+        "id": 27,
+        "name": "Bubba Shibaba",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 252,
+        "server": "Ruby"
+    },
+    {
+        "id": 28,
+        "name": "Tyaze",
+        "vocation": "Mago",
+        "level": 2,
+        "experience": 180,
+        "server": "Ruby"
+    },
+    {
+        "id": 29,
+        "name": "Jdsofc",
+        "vocation": "Mago",
+        "level": 5,
+        "experience": 2367,
+        "server": "Jasper"
+    },
+    {
+        "id": 30,
+        "name": "Don Konduktor",
+        "vocation": "Mago",
+        "level": 3,
+        "experience": 450,
+        "server": "Jasper"
+    },
+    {
+        "id": 31,
+        "name": "Mighz",
+        "vocation": "Mago",
+        "level": 2,
+        "experience": 63,
+        "server": "Jasper"
+    }
+]
