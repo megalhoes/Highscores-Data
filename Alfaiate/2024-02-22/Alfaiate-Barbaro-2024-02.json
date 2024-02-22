@@ -1,0 +1,1418 @@
+[
+    {
+        "id": 1,
+        "name": "Cadz",
+        "vocation": "Bárbaro",
+        "level": 10,
+        "experience": 22655,
+        "server": "Onix"
+    },
+    {
+        "id": 2,
+        "name": "Quagsire",
+        "vocation": "Bárbaro",
+        "level": 9,
+        "experience": 13575,
+        "server": "Onix"
+    },
+    {
+        "id": 3,
+        "name": "Child",
+        "vocation": "Bárbaro",
+        "level": 7,
+        "experience": 6340,
+        "server": "Onix"
+    },
+    {
+        "id": 4,
+        "name": "Dark Haunter",
+        "vocation": "Bárbaro",
+        "level": 7,
+        "experience": 5535,
+        "server": "Onix"
+    },
+    {
+        "id": 5,
+        "name": "Ivan Luiz",
+        "vocation": "Bárbaro",
+        "level": 7,
+        "experience": 5535,
+        "server": "Onix"
+    },
+    {
+        "id": 6,
+        "name": "Lui",
+        "vocation": "Bárbaro",
+        "level": 7,
+        "experience": 5105,
+        "server": "Onix"
+    },
+    {
+        "id": 7,
+        "name": "Voudo",
+        "vocation": "Bárbaro",
+        "level": 6,
+        "experience": 4790,
+        "server": "Onix"
+    },
+    {
+        "id": 8,
+        "name": "Nostradamus",
+        "vocation": "Bárbaro",
+        "level": 6,
+        "experience": 4270,
+        "server": "Onix"
+    },
+    {
+        "id": 9,
+        "name": "Sniper Elite",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 2515,
+        "server": "Onix"
+    },
+    {
+        "id": 10,
+        "name": "Ferreira Ferrada",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 2475,
+        "server": "Onix"
+    },
+    {
+        "id": 11,
+        "name": "Clarinha Bruta",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 2110,
+        "server": "Onix"
+    },
+    {
+        "id": 12,
+        "name": "Hollow",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 1845,
+        "server": "Onix"
+    },
+    {
+        "id": 13,
+        "name": "Abalada",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 1815,
+        "server": "Onix"
+    },
+    {
+        "id": 14,
+        "name": "Lucas Sandi",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 1540,
+        "server": "Onix"
+    },
+    {
+        "id": 15,
+        "name": "Drafina Solita",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 1500,
+        "server": "Onix"
+    },
+    {
+        "id": 16,
+        "name": "Ankole",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 1310,
+        "server": "Onix"
+    },
+    {
+        "id": 17,
+        "name": "Burnk",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 1300,
+        "server": "Onix"
+    },
+    {
+        "id": 18,
+        "name": "Azzy",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 1300,
+        "server": "Onix"
+    },
+    {
+        "id": 19,
+        "name": "Gatoloko",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 1260,
+        "server": "Onix"
+    },
+    {
+        "id": 20,
+        "name": "Cocobomgo",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 1155,
+        "server": "Onix"
+    },
+    {
+        "id": 21,
+        "name": "Trick Archer",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 1060,
+        "server": "Onix"
+    },
+    {
+        "id": 22,
+        "name": "Polar Gelada",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 920,
+        "server": "Onix"
+    },
+    {
+        "id": 23,
+        "name": "Gorobin",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 920,
+        "server": "Onix"
+    },
+    {
+        "id": 24,
+        "name": "Drunken Lightning",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 915,
+        "server": "Onix"
+    },
+    {
+        "id": 25,
+        "name": "Xhamps",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 850,
+        "server": "Onix"
+    },
+    {
+        "id": 26,
+        "name": "Duffzinea",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 805,
+        "server": "Onix"
+    },
+    {
+        "id": 27,
+        "name": "Azelon",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 755,
+        "server": "Onix"
+    },
+    {
+        "id": 28,
+        "name": "Offset",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 715,
+        "server": "Onix"
+    },
+    {
+        "id": 29,
+        "name": "Brunoaf",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 620,
+        "server": "Onix"
+    },
+    {
+        "id": 30,
+        "name": "Jcmanomaster",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 615,
+        "server": "Onix"
+    },
+    {
+        "id": 31,
+        "name": "Ceifadorkiller",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 580,
+        "server": "Onix"
+    },
+    {
+        "id": 32,
+        "name": "Juan Bjjtaz",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 550,
+        "server": "Onix"
+    },
+    {
+        "id": 33,
+        "name": "Hollow",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 465,
+        "server": "Onix"
+    },
+    {
+        "id": 34,
+        "name": "Hykkarus",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 450,
+        "server": "Onix"
+    },
+    {
+        "id": 35,
+        "name": "Tenntado",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 450,
+        "server": "Onix"
+    },
+    {
+        "id": 36,
+        "name": "Ariranhacolorida",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 440,
+        "server": "Onix"
+    },
+    {
+        "id": 37,
+        "name": "Estrelotw",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 330,
+        "server": "Onix"
+    },
+    {
+        "id": 38,
+        "name": "Creatina",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 285,
+        "server": "Onix"
+    },
+    {
+        "id": 39,
+        "name": "Sladman",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 240,
+        "server": "Onix"
+    },
+    {
+        "id": 40,
+        "name": "Nettle",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 220,
+        "server": "Onix"
+    },
+    {
+        "id": 41,
+        "name": "Leeh",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 220,
+        "server": "Onix"
+    },
+    {
+        "id": 42,
+        "name": "Kraser",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 210,
+        "server": "Onix"
+    },
+    {
+        "id": 43,
+        "name": "Xamanice",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 210,
+        "server": "Onix"
+    },
+    {
+        "id": 44,
+        "name": "Dese",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 205,
+        "server": "Onix"
+    },
+    {
+        "id": 45,
+        "name": "Kalyra",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 200,
+        "server": "Onix"
+    },
+    {
+        "id": 46,
+        "name": "Bowdrin",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 190,
+        "server": "Onix"
+    },
+    {
+        "id": 47,
+        "name": "Sombra",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 165,
+        "server": "Onix"
+    },
+    {
+        "id": 48,
+        "name": "Lorem Ueth",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 160,
+        "server": "Onix"
+    },
+    {
+        "id": 49,
+        "name": "Veinho",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 145,
+        "server": "Onix"
+    },
+    {
+        "id": 50,
+        "name": "Blane",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 140,
+        "server": "Onix"
+    },
+    {
+        "id": 51,
+        "name": "Kryon Xin",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 130,
+        "server": "Onix"
+    },
+    {
+        "id": 52,
+        "name": "Rudizera",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 120,
+        "server": "Onix"
+    },
+    {
+        "id": 53,
+        "name": "Yrving",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 115,
+        "server": "Onix"
+    },
+    {
+        "id": 54,
+        "name": "Dolfin Caminhoes",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 115,
+        "server": "Onix"
+    },
+    {
+        "id": 55,
+        "name": "Alejandro Gomez",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 105,
+        "server": "Onix"
+    },
+    {
+        "id": 56,
+        "name": "Lamortblanchee",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 105,
+        "server": "Onix"
+    },
+    {
+        "id": 57,
+        "name": "Kinazin Tunado",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 100,
+        "server": "Onix"
+    },
+    {
+        "id": 58,
+        "name": "Edex",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 90,
+        "server": "Onix"
+    },
+    {
+        "id": 59,
+        "name": "Dragolothbrok",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 90,
+        "server": "Onix"
+    },
+    {
+        "id": 60,
+        "name": "Gonds",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 75,
+        "server": "Onix"
+    },
+    {
+        "id": 61,
+        "name": "Askor Ranger",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 75,
+        "server": "Onix"
+    },
+    {
+        "id": 62,
+        "name": "Spankx",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 65,
+        "server": "Onix"
+    },
+    {
+        "id": 63,
+        "name": "Narkisza",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 65,
+        "server": "Onix"
+    },
+    {
+        "id": 64,
+        "name": "Tseng",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 60,
+        "server": "Onix"
+    },
+    {
+        "id": 65,
+        "name": "Holeblack",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 60,
+        "server": "Onix"
+    },
+    {
+        "id": 66,
+        "name": "Jefao Rpzin",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 60,
+        "server": "Onix"
+    },
+    {
+        "id": 67,
+        "name": "Mheex",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 60,
+        "server": "Onix"
+    },
+    {
+        "id": 68,
+        "name": "Voodoo Crazy",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 55,
+        "server": "Onix"
+    },
+    {
+        "id": 69,
+        "name": "Splojng",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 55,
+        "server": "Onix"
+    },
+    {
+        "id": 70,
+        "name": "Rayz Terceiro",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Onix"
+    },
+    {
+        "id": 71,
+        "name": "Mister Giusto",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Onix"
+    },
+    {
+        "id": 72,
+        "name": "Satamoita",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Onix"
+    },
+    {
+        "id": 73,
+        "name": "Narahk",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Onix"
+    },
+    {
+        "id": 74,
+        "name": "Moscavalo",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Onix"
+    },
+    {
+        "id": 75,
+        "name": "Black Lords",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Onix"
+    },
+    {
+        "id": 76,
+        "name": "Tankerina",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Onix"
+    },
+    {
+        "id": 77,
+        "name": "Isabella Poli",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Onix"
+    },
+    {
+        "id": 78,
+        "name": "Xxlokixx",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Onix"
+    },
+    {
+        "id": 79,
+        "name": "Beijokz",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 40,
+        "server": "Onix"
+    },
+    {
+        "id": 80,
+        "name": "Boris Bee",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 40,
+        "server": "Onix"
+    },
+    {
+        "id": 81,
+        "name": "Alyster Wolf",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 40,
+        "server": "Onix"
+    },
+    {
+        "id": 82,
+        "name": "Kazuya Kinoshita",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 40,
+        "server": "Onix"
+    },
+    {
+        "id": 83,
+        "name": "Panaceia",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 40,
+        "server": "Onix"
+    },
+    {
+        "id": 84,
+        "name": "Korvino",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 85,
+        "name": "Xung Xin",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 86,
+        "name": "Judeau",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 87,
+        "name": "Fatiadordomal",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 88,
+        "name": "Altherion",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 89,
+        "name": "Flamersz",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 90,
+        "name": "Azulada",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 91,
+        "name": "Mage Oak",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 92,
+        "name": "Renatinha",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 93,
+        "name": "Onn",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 94,
+        "name": "Bugotudaki",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 95,
+        "name": "Botsteve",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 96,
+        "name": "Momoi",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 97,
+        "name": "Rubic",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 98,
+        "name": "Kyrion",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 99,
+        "name": "Bmsombra",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 100,
+        "name": "Lagallity",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Onix"
+    },
+    {
+        "id": 101,
+        "name": "Bubba Shibaba",
+        "vocation": "Bárbaro",
+        "level": 14,
+        "experience": 52090,
+        "server": "Ruby"
+    },
+    {
+        "id": 102,
+        "name": "Khazit",
+        "vocation": "Bárbaro",
+        "level": 9,
+        "experience": 13015,
+        "server": "Ruby"
+    },
+    {
+        "id": 103,
+        "name": "Anaconha",
+        "vocation": "Bárbaro",
+        "level": 6,
+        "experience": 4045,
+        "server": "Ruby"
+    },
+    {
+        "id": 104,
+        "name": "Kurupir",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 2615,
+        "server": "Ruby"
+    },
+    {
+        "id": 105,
+        "name": "Leona Cansada",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 1920,
+        "server": "Ruby"
+    },
+    {
+        "id": 106,
+        "name": "Ron Ann",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 1535,
+        "server": "Ruby"
+    },
+    {
+        "id": 107,
+        "name": "Annikim",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 1260,
+        "server": "Ruby"
+    },
+    {
+        "id": 108,
+        "name": "Scars",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 370,
+        "server": "Ruby"
+    },
+    {
+        "id": 109,
+        "name": "Ultraviollety",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 315,
+        "server": "Ruby"
+    },
+    {
+        "id": 110,
+        "name": "Brutuzz",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 270,
+        "server": "Ruby"
+    },
+    {
+        "id": 111,
+        "name": "Andradev",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 135,
+        "server": "Ruby"
+    },
+    {
+        "id": 112,
+        "name": "Blinck",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 90,
+        "server": "Ruby"
+    },
+    {
+        "id": 113,
+        "name": "Tibery Shibaba",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 90,
+        "server": "Ruby"
+    },
+    {
+        "id": 114,
+        "name": "Buffa Arqueiro",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 85,
+        "server": "Ruby"
+    },
+    {
+        "id": 115,
+        "name": "Aedes Knight",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 80,
+        "server": "Ruby"
+    },
+    {
+        "id": 116,
+        "name": "Phefo",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 75,
+        "server": "Ruby"
+    },
+    {
+        "id": 117,
+        "name": "Dco",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 75,
+        "server": "Ruby"
+    },
+    {
+        "id": 118,
+        "name": "Ffzen",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 65,
+        "server": "Ruby"
+    },
+    {
+        "id": 119,
+        "name": "Cuce Tinha",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 60,
+        "server": "Ruby"
+    },
+    {
+        "id": 120,
+        "name": "Mrnescal",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 60,
+        "server": "Ruby"
+    },
+    {
+        "id": 121,
+        "name": "Irtrazzarq",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Ruby"
+    },
+    {
+        "id": 122,
+        "name": "Niederle",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Ruby"
+    },
+    {
+        "id": 123,
+        "name": "Zerphiros",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Ruby"
+    },
+    {
+        "id": 124,
+        "name": "Ivan Luiz Fragaboss",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Ruby"
+    },
+    {
+        "id": 125,
+        "name": "Sauer",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 40,
+        "server": "Ruby"
+    },
+    {
+        "id": 126,
+        "name": "Gaeel",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Ruby"
+    },
+    {
+        "id": 127,
+        "name": "Sunraku",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Ruby"
+    },
+    {
+        "id": 128,
+        "name": "Dyana",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Ruby"
+    },
+    {
+        "id": 129,
+        "name": "Pipoquinha",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Ruby"
+    },
+    {
+        "id": 130,
+        "name": "Kleptos",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Ruby"
+    },
+    {
+        "id": 131,
+        "name": "Noobzord",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Ruby"
+    },
+    {
+        "id": 132,
+        "name": "Swish",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Ruby"
+    },
+    {
+        "id": 133,
+        "name": "Pancada",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Ruby"
+    },
+    {
+        "id": 134,
+        "name": "Noobzaum",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 135,
+        "name": "Ramom",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 136,
+        "name": "Fllay",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 137,
+        "name": "Master Tafed",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 138,
+        "name": "Ueprotein",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 139,
+        "name": "King Leon",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 140,
+        "name": "Farux",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 141,
+        "name": "Scarlethsx",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 142,
+        "name": "Jeka",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 143,
+        "name": "Korvus",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 144,
+        "name": "Dona Cleide",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 145,
+        "name": "Freljordx",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 146,
+        "name": "Tacador Bolonha",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 147,
+        "name": "Lord Flash",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 148,
+        "name": "Noobzao",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 149,
+        "name": "Devil Ryu",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 150,
+        "name": "Dudu Machadao",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 151,
+        "name": "Hayasint",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 152,
+        "name": "Robardo",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 153,
+        "name": "Savian",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 154,
+        "name": "Barbaroql",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 155,
+        "name": "Rafyz",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 156,
+        "name": "Otin",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Ruby"
+    },
+    {
+        "id": 157,
+        "name": "Hary Puma",
+        "vocation": "Bárbaro",
+        "level": 8,
+        "experience": 9815,
+        "server": "Jasper"
+    },
+    {
+        "id": 158,
+        "name": "Bakacyjna",
+        "vocation": "Bárbaro",
+        "level": 7,
+        "experience": 5220,
+        "server": "Jasper"
+    },
+    {
+        "id": 159,
+        "name": "Piglet",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 2655,
+        "server": "Jasper"
+    },
+    {
+        "id": 160,
+        "name": "Nerina",
+        "vocation": "Bárbaro",
+        "level": 5,
+        "experience": 1650,
+        "server": "Jasper"
+    },
+    {
+        "id": 161,
+        "name": "Szczurzyca Esmeralda",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 1150,
+        "server": "Jasper"
+    },
+    {
+        "id": 162,
+        "name": "Jdsofc",
+        "vocation": "Bárbaro",
+        "level": 4,
+        "experience": 920,
+        "server": "Jasper"
+    },
+    {
+        "id": 163,
+        "name": "Rikon",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 650,
+        "server": "Jasper"
+    },
+    {
+        "id": 164,
+        "name": "Xozki",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 255,
+        "server": "Jasper"
+    },
+    {
+        "id": 165,
+        "name": "Pooh",
+        "vocation": "Bárbaro",
+        "level": 3,
+        "experience": 215,
+        "server": "Jasper"
+    },
+    {
+        "id": 166,
+        "name": "Vergunes",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 125,
+        "server": "Jasper"
+    },
+    {
+        "id": 167,
+        "name": "Galanx",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 90,
+        "server": "Jasper"
+    },
+    {
+        "id": 168,
+        "name": "Tane",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 80,
+        "server": "Jasper"
+    },
+    {
+        "id": 169,
+        "name": "Mighz",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 45,
+        "server": "Jasper"
+    },
+    {
+        "id": 170,
+        "name": "Blade Lotus",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Jasper"
+    },
+    {
+        "id": 171,
+        "name": "Kolorowezuo",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Jasper"
+    },
+    {
+        "id": 172,
+        "name": "Unii",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Jasper"
+    },
+    {
+        "id": 173,
+        "name": "Kungen",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Jasper"
+    },
+    {
+        "id": 174,
+        "name": "Shoryuken",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Jasper"
+    },
+    {
+        "id": 175,
+        "name": "Reign",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 30,
+        "server": "Jasper"
+    },
+    {
+        "id": 176,
+        "name": "Leffe",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Jasper"
+    },
+    {
+        "id": 177,
+        "name": "Kurumi Tokisaki",
+        "vocation": "Bárbaro",
+        "level": 2,
+        "experience": 15,
+        "server": "Jasper"
+    }
+]
