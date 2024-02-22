@@ -11,7 +11,7 @@ def save_monthly_highscores(output):
     directory_name = today.strftime('%Y-%m-%d') # Cria o nome do diretório a partir da data atual
     if not os.path.exists(directory_name): # Verifica se o diretório já existe
         os.mkdir(directory_name) # Se não existir, cria o diretório
-    file_name = 'Fishing-All-' + today.strftime('%Y-%m') + '.json' # Cria o nome do arquivo a partir da data atual
+    file_name = 'Pescaria-All-' + today.strftime('%Y-%m') + '.json' # Cria o nome do arquivo a partir da data atual
     file_path = os.path.join(directory_name, file_name) # Cria o caminho completo do arquivo
     with open(file_path, 'w', encoding='utf-8') as json_file: # Abre o arquivo em modo de escrita
         json.dump(output, json_file, indent=4, ensure_ascii=False) # Salva os dados no arquivo no formato JSON
