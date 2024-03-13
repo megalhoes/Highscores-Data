@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "name": "Cadz",
+        "vocation": "Todas",
+        "level": 14,
+        "experience": 61758,
+        "server": "Onix"
+    },
+    {
+        "id": 2,
+        "name": "Miihzinha",
+        "vocation": "Todas",
+        "level": 11,
+        "experience": 29361,
+        "server": "Onix"
+    },
+    {
+        "id": 3,
+        "name": "Dark Haunter",
+        "vocation": "Todas",
+        "level": 9,
+        "experience": 13905,
+        "server": "Onix"
+    },
+    {
+        "id": 4,
+        "name": "Polly Gray",
+        "vocation": "Todas",
+        "level": 9,
+        "experience": 12573,
+        "server": "Onix"
+    },
+    {
+        "id": 5,
+        "name": "Nostradamus",
+        "vocation": "Todas",
+        "level": 7,
+        "experience": 5562,
+        "server": "Onix"
+    },
+    {
+        "id": 6,
+        "name": "Brunoaf",
+        "vocation": "Todas",
+        "level": 6,
+        "experience": 4950,
+        "server": "Onix"
+    },
+    {
+        "id": 7,
+        "name": "Drunken",
+        "vocation": "Todas",
+        "level": 6,
+        "experience": 3492,
+        "server": "Onix"
+    },
+    {
+        "id": 8,
+        "name": "Moonk",
+        "vocation": "Todas",
+        "level": 6,
+        "experience": 3321,
+        "server": "Onix"
+    },
+    {
+        "id": 9,
+        "name": "Child",
+        "vocation": "Todas",
+        "level": 5,
+        "experience": 2862,
+        "server": "Onix"
+    },
+    {
+        "id": 10,
+        "name": "Iocasan",
+        "vocation": "Todas",
+        "level": 5,
+        "experience": 2709,
+        "server": "Onix"
+    },
+    {
+        "id": 11,
+        "name": "Ferreira Ferrada",
+        "vocation": "Todas",
+        "level": 5,
+        "experience": 1827,
+        "server": "Onix"
+    },
+    {
+        "id": 12,
+        "name": "Buffa Barbaro",
+        "vocation": "Todas",
+        "level": 5,
+        "experience": 1737,
+        "server": "Onix"
+    },
+    {
+        "id": 13,
+        "name": "Ivan Luiz",
+        "vocation": "Todas",
+        "level": 5,
+        "experience": 1719,
+        "server": "Onix"
+    },
+    {
+        "id": 14,
+        "name": "Shane Walsh",
+        "vocation": "Todas",
+        "level": 4,
+        "experience": 1440,
+        "server": "Onix"
+    },
+    {
+        "id": 15,
+        "name": "Jefao Rpzin",
+        "vocation": "Todas",
+        "level": 4,
+        "experience": 1035,
+        "server": "Onix"
+    },
+    {
+        "id": 16,
+        "name": "Cabulosao",
+        "vocation": "Todas",
+        "level": 4,
+        "experience": 981,
+        "server": "Onix"
+    },
+    {
+        "id": 17,
+        "name": "Bruno Meira",
+        "vocation": "Todas",
+        "level": 4,
+        "experience": 837,
+        "server": "Onix"
+    },
+    {
+        "id": 18,
+        "name": "Billyofhell",
+        "vocation": "Todas",
+        "level": 4,
+        "experience": 828,
+        "server": "Onix"
+    },
+    {
+        "id": 19,
+        "name": "Laneto Demonic",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 639,
+        "server": "Onix"
+    },
+    {
+        "id": 20,
+        "name": "Qyop",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 621,
+        "server": "Onix"
+    },
+    {
+        "id": 21,
+        "name": "Rayuka",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 594,
+        "server": "Onix"
+    },
+    {
+        "id": 22,
+        "name": "Biguazinho",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 486,
+        "server": "Onix"
+    },
+    {
+        "id": 23,
+        "name": "Bixobruto",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 360,
+        "server": "Onix"
+    },
+    {
+        "id": 24,
+        "name": "Edyzzerah",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 306,
+        "server": "Onix"
+    },
+    {
+        "id": 25,
+        "name": "Bone War",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 297,
+        "server": "Onix"
+    },
+    {
+        "id": 26,
+        "name": "Armor",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 297,
+        "server": "Onix"
+    },
+    {
+        "id": 27,
+        "name": "Drykan",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 234,
+        "server": "Onix"
+    },
+    {
+        "id": 28,
+        "name": "Muzzuco",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 234,
+        "server": "Onix"
+    },
+    {
+        "id": 29,
+        "name": "Biaa",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 162,
+        "server": "Onix"
+    },
+    {
+        "id": 30,
+        "name": "Lucas Sandi",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 126,
+        "server": "Onix"
+    },
+    {
+        "id": 31,
+        "name": "Sakuyamon",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 99,
+        "server": "Onix"
+    },
+    {
+        "id": 32,
+        "name": "Gorobin",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 72,
+        "server": "Onix"
+    },
+    {
+        "id": 33,
+        "name": "Ephiny",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 54,
+        "server": "Onix"
+    },
+    {
+        "id": 34,
+        "name": "Oriax",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 36,
+        "server": "Onix"
+    },
+    {
+        "id": 35,
+        "name": "Linkle",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 27,
+        "server": "Onix"
+    },
+    {
+        "id": 36,
+        "name": "Abrakadraba",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 18,
+        "server": "Onix"
+    },
+    {
+        "id": 37,
+        "name": "Chaells",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 9,
+        "server": "Onix"
+    },
+    {
+        "id": 38,
+        "name": "Massarico",
+        "vocation": "Todas",
+        "level": 33,
+        "experience": 808665,
+        "server": "Ruby"
+    },
+    {
+        "id": 39,
+        "name": "Zerphiros",
+        "vocation": "Todas",
+        "level": 10,
+        "experience": 18135,
+        "server": "Ruby"
+    },
+    {
+        "id": 40,
+        "name": "Bubba Shibaba",
+        "vocation": "Todas",
+        "level": 5,
+        "experience": 2889,
+        "server": "Ruby"
+    },
+    {
+        "id": 41,
+        "name": "Fenhir The Wolf",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 387,
+        "server": "Ruby"
+    },
+    {
+        "id": 42,
+        "name": "Nafurinha",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 225,
+        "server": "Ruby"
+    },
+    {
+        "id": 43,
+        "name": "Tyaze",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 180,
+        "server": "Ruby"
+    },
+    {
+        "id": 44,
+        "name": "Tratorista",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 126,
+        "server": "Ruby"
+    },
+    {
+        "id": 45,
+        "name": "Laura",
+        "vocation": "Todas",
+        "level": 2,
+        "experience": 54,
+        "server": "Ruby"
+    },
+    {
+        "id": 46,
+        "name": "Raytay",
+        "vocation": "Todas",
+        "level": 11,
+        "experience": 26940,
+        "server": "Jasper"
+    },
+    {
+        "id": 47,
+        "name": "Jdsofc",
+        "vocation": "Todas",
+        "level": 5,
+        "experience": 2367,
+        "server": "Jasper"
+    },
+    {
+        "id": 48,
+        "name": "Don Konduktor",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 450,
+        "server": "Jasper"
+    },
+    {
+        "id": 49,
+        "name": "Hania Zuza",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 441,
+        "server": "Jasper"
+    },
+    {
+        "id": 50,
+        "name": "Mighz",
+        "vocation": "Todas",
+        "level": 3,
+        "experience": 387,
+        "server": "Jasper"
+    }
+]
